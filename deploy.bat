@@ -21,19 +21,18 @@ git rm -rf .
 
 @REM 将临时目录中的文件复制到该分支
 xcopy /s /y %TEMP_DIR% .
-cp -r $TEMP_DIR/* .
 
-# 提交到本地仓库
+@REM 提交到本地仓库
 git add .
 
-# 提交到远程仓库
+@REM 提交到远程仓库
 git commit -m "publish book"
 
-# 推送到远程仓库
+@REM 推送到远程仓库
 git push origin gh-pages
 
-# 切换回主分支
+@REM 切换回主分支
 git checkout main
 
-# 删除临时目录
-rm -rf $TEMP_DIR
+@REM 删除临时目录
+rmdir /s /q %TEMP_DIR%
