@@ -1,3 +1,8 @@
+# 提交主分支代码
+git add .
+git commit -m "update"
+git push origin master
+
 # 临时目录名变量
 TEMP_DIR=../tmp_gitbook_0718
 
