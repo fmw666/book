@@ -1,14 +1,18 @@
 {
     "root": "./docs",
-    "title": "14 Days of Investment",
+    "title": "您的第一本理财教程",
     "description": "14 Days of Investment",
     "author": "fmw666",
     "language": "zh-hans",
     "gitbook": ">=3.0.0",
 
+    "structure": {
+        "readme": "introduction.md"
+    },
+
     "links" : {
         "sidebar" : {
-            "Home" : "https://github.com/dunwu/gitbook-notes"
+            "Home" : ""
         },
         "sharing": {
             "twitter": null
