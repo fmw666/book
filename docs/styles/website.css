@@ -5,3 +5,30 @@ h1, h2 {
 h3, h4 {
     color: #1F9FCC;
 }
+
+/* .header, .chapter a, .chapter span {
+    padding-left: 20px !important;
+} */
+
+#rewardButton span {
+    background-color: #1F9FCC;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#rewardButton span:hover {
+    background-color: #0f8ab7;
+}
+
+#wechat:hover p {
+    animation: none;
+    -webkit-animation: none;
+    -moz-animation: none;
+}
+
+#alipay:hover p {
+    animation: none;
+    -webkit-animation: none;
+    -moz-animation: none;
+}

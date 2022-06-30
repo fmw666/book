@@ -16,6 +16,8 @@
     },
 
     "plugins": [
+        "github",
+        "github-buttons",
         "theme-comscore",
         "splitter",
         "lightbox",
@@ -24,6 +26,9 @@
     ],
 
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/fmw666"
+        },
         "theme-default": {
             "showLevel": true
         },
