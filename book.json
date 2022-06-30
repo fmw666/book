@@ -9,17 +9,37 @@
     "links" : {
         "sidebar" : {
             "Home" : "https://github.com/dunwu/gitbook-notes"
+        },
+        "sharing": {
+            "twitter": null
         }
     },
 
     "plugins": [
         "theme-comscore",
-        "splitter"
+        "splitter",
+        "lightbox",
+        "anchor-navigation-ex",
+        "tbfed-pagefooter"
     ],
 
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false,
+            "showGoTop": true
+        },
+        "tbfed-pagefooter": {
+            "modify_label": "最后修改于",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
+    },
+
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "mobi": "styles/mobi.css"
     }
 }
