@@ -6,6 +6,44 @@ h3, h4 {
     color: #1F9FCC;
 }
 
+.page-inner {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#anchor-navigation-ex-navbar > ul {
+    padding-right: 0;
+    padding-left: 5px;
+}
+
+#anchor-navigation-ex-navbar > ul > li {
+    padding-bottom: 5px;
+}
+
+/* 导航栏一级标题 */
+#anchor-navigation-ex-navbar > ul > li > .title-icon + a {
+    color: #1F9FCC !important;
+    font-weight: 600;
+}
+
+/* 导航栏二级标题 */
+#anchor-navigation-ex-navbar > ul > ul > li > .title-icon + a {
+    font-size: 13px !important;
+}
+
+/* 导航栏三级标题 */
+#anchor-navigation-ex-navbar > ul > ul > ul > li > .title-icon + a {
+    font-size: 13px !important;
+}
+
+#anchor-navigation-ex-navbar > ul > ul {
+    list-style-type: circle;
+}
+
+#anchor-navigation-ex-navbar > ul > ul > ul {
+    list-style-type: circle;
+}
+
 /* .header, .chapter a, .chapter span {
     padding-left: 20px !important;
 } */

@@ -13,9 +13,6 @@
     "links" : {
         "sidebar" : {
             "Home" : ""
-        },
-        "sharing": {
-            "twitter": null
         }
     },
 
@@ -26,7 +23,13 @@
         "splitter",
         "lightbox",
         "anchor-navigation-ex",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "insert-logo",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "-share",
+        "sharing-plus"
     ],
 
     "pluginsConfig": {
@@ -43,12 +46,25 @@
         "tbfed-pagefooter": {
             "modify_label": "最后修改于",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "insert-logo": {
+            "url": "docs/images/wechat.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "twitter": false,
+            "weibo": false,
+            "all": ["douban", "facebook", "qq", "qzone", "twitter", "weibo"]
         }
     },
 
     "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "mobi": "styles/mobi.css"
+        "website": "styles/website.css"
     }
 }
