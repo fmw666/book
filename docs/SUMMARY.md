@@ -9,13 +9,15 @@
 ## 思考感悟
 
 * [一些思考](d-thinking/README.md)
-  * [我们为什么要理财]()
-  * [资产和负债](d-thinking/assets-and-liabilities.md)
+  * [我们为什么要理财](d-thinking/why-we-need-to-invest.md)
 * [一些随笔](d-jotting/README.md)
 
 ## 专业知识
 
+* [资产和负债](d-knowledge/assets-and-liabilities.md)
 * [利率](d-knowledge/interest-rate.md)
+* [对赌协议](d-knowledge/valuation-adjustment-mechanism.md)
+* [市盈率（PE）和市净率（PB）](d-knowledge/pe-and-pb.md)
 
 ## 工具
 

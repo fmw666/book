@@ -6,6 +6,10 @@ h3, h4 {
     color: #1F9FCC;
 }
 
+blockquote {
+    margin: 1.4em 0 !important;
+}
+
 .page-inner {
     padding-left: 20px;
     padding-right: 20px;

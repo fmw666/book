@@ -29,7 +29,8 @@
         "-search",
         "search-pro",
         "-share",
-        "sharing-plus"
+        "sharing-plus",
+        "katex"
     ],
 
     "pluginsConfig": {
