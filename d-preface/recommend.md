@@ -34,6 +34,14 @@
 
     <div align="right">—— 来源 <i>豆瓣</i></div>
 
+### UP 主推荐
+
+<div id="xx">
+<img src="https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg">
+</div>
+![](https://i1.hdslb.com/bfs/face/cf895b86c955e4ce62b28b3c2bb5bbc77f9fd410.jpg)
+[小Lin说](https://space.bilibili.com/520819684)
+
 ### APP 推荐
 
 + [有知有行](https://baike.baidu.com/item/%E6%9C%89%E7%9F%A5%E6%9C%89%E8%A1%8C/58386077)
