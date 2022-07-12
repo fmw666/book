@@ -9,7 +9,8 @@
 ## 思考感悟
 
 * [一些思考](d-thinking/README.md)
-  * [我们为什么要理财](d-thinking/why-we-need-to-invest.md)
+  * [我们为什么要理财](d-thinking/why-we-need-financing.md)
+  * [如何理解资产和负债](d-thinking/how-to-understand-assets-and-liabilities.md)
 * [一些随笔](d-jotting/README.md)
 
 ## 专业知识
